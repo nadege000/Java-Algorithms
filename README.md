@@ -1,4 +1,5 @@
 # Java-Algorithms
 Java algorithm practices
 
-![2](https://user-images.githubusercontent.com/57646605/106401112-fa211780-63e7-11eb-8907-a7aa6e7edccb.jpg)
+![java-development-services_0](https://user-images.githubusercontent.com/57646605/106401197-6ef45180-63e8-11eb-8565-e55bd8f0d5c9.png)
+
